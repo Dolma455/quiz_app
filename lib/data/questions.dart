@@ -8,7 +8,7 @@ final questions = [
     'Components',
   ]),
   QuizQuestion(
-      text: 'What are the msot useful editors for flutter apps?',
+      text: 'What are the most useful editors for flutter apps?',
       answers: [
         'Visual Studio',
         'Android Studio',
